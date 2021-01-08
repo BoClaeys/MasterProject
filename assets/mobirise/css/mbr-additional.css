@@ -3879,19 +3879,6 @@ a {
 .cid-sl7P2JZLNG .mbr-section-title {
   color: #353535;
 }
-.cid-slkVqYUHbH {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #bbbbbb;
-}
-.cid-slkVqYUHbH .mbr-text,
-.cid-slkVqYUHbH .mbr-section-btn {
-  text-align: left;
-  color: #353535;
-}
-.cid-slkVqYUHbH .mbr-section-title {
-  color: #353535;
-}
 .cid-slkSsSeREy {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -4267,6 +4254,11 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-slvtWSv7rx {
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+  background-color: #bbbbbb;
 }
 .cid-sl7woB8eJH {
   padding-top: 5rem;
