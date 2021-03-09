@@ -3911,6 +3911,11 @@ a {
 .cid-slkSsSeREy .btn-social:hover i.socicon {
   color: #ffffff !important;
 }
+.cid-sr9CkwAGwK {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #bbbbbb;
+}
 .cid-sl7xXBvOnM {
   z-index: 1000;
   width: 100%;
@@ -4258,14 +4263,19 @@ a {
     left: -1rem;
   }
 }
+.cid-sr9Fh0jevs {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #bbbbbb;
+}
 .cid-slvtWSv7rx {
-  padding-top: 10rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #bbbbbb;
 }
 .cid-sp6fW4I3Fs {
   padding-top: 9rem;
-  padding-bottom: 9rem;
+  padding-bottom: 2rem;
   background-color: #bbbbbb;
 }
 .cid-sp6fW4I3Fs [class^="socicon-"]:before,
